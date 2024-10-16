@@ -11,8 +11,8 @@ public class Main {
        // NumeroDeLaSuerte numeroDeLaSuerte = new NumeroDeLaSuerte();
       //  numeroDeLaSuerte.pract1();
 
-        Altura altura = new Altura();
-        altura.medidas();
+       // Altura altura = new Altura();
+        //altura.medidas();
 
 
 
