@@ -5,8 +5,17 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
-        Excepciones excepciones = new Excepciones();
-        excepciones.modos();
+       // Excepciones excepciones = new Excepciones();
+      //  excepciones.modos();
+
+       // NumeroDeLaSuerte numeroDeLaSuerte = new NumeroDeLaSuerte();
+      //  numeroDeLaSuerte.pract1();
+
+        Altura altura = new Altura();
+        altura.medidas();
+
+
+
 
 
     }
