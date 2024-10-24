@@ -14,6 +14,24 @@ public class Main {
        // Altura altura = new Altura();
         //altura.medidas();
 
+    //Actividad3 actividad3 = new Actividad3();
+   // actividad3.Actividad();
+
+       // Actividad4 actividad4 = new Actividad4();
+      //  actividad4.Hola();
+
+        Aleatorios aleatorios = new Aleatorios();
+//        aleatorios.aleatorios();
+        aleatorios.dados();
+
+        aleatorios.ejercicio3();
+
+
+
+
+
+
+
 
 
 
