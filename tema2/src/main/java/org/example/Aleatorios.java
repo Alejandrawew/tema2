@@ -88,6 +88,24 @@ public class Aleatorios {
 
     }
 
+    public void maximosyminimos(){
+
+        Random maximos = new Random();
+
+        int numeromax = maximos.nextInt(9)+1;
+
+        int numeromin = maximos.nextInt(9)+1;
+
+
+        
+
+
+
+
+
+
+    }
+
 
 
 
